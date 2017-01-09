@@ -206,6 +206,7 @@ header .header-content .header-content-inner p {
     max-width: 80%;
     margin-left: auto;
     margin-right: auto;
+    color: black;
   }
 }
 .section-heading {
