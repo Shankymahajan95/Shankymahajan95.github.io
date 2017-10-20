@@ -1,1 +1,6 @@
-# [Shashank Mahajan](https://shankymahajan.github.io/) - [Personal Website]
+
+# [Shashank Mahajan](http://shankymahajan95.github.io)
+
+
+Shashank Mahajan (personal Website)
+
