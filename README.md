@@ -1,6 +1,6 @@
 
-# [Shashank Mahajan](http://shankymahajan95.github.io) 
+# [Shashank Mahajan](http://shankymahajan95.github.io)
 
 
-Shashank Mahajan (personal test Website)
+Shashank Mahajan (personalWebsite)
 
